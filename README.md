@@ -18,7 +18,7 @@
 
 - [UC Berkeley] CS 61C: Great Ideas in Computer Architecture
 
-    In progress. [Link](https://github.com/Fuyukiri/CS61C)
+    Finished. [Link](https://github.com/Fuyukiri/CS61C)
 
 - [Stanford] CS 110L: Safety in Systems Programming
 
