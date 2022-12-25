@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building complex distributed system in AWS.
+- 🔭 I’m currently working on building complex distributed system in AWS☁️.
 - 🌱 I’m currently learning Computer Architecture.
 - 👯 I’m looking to collaborate on learning computer science.
 - 💬 Ask me about computer science study
