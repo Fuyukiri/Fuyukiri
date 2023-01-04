@@ -22,11 +22,15 @@
 
 - [Stanford] CS 110L: Safety in Systems Programming
 
-    In progress. [Link](https://github.com/Fuyukiri/CS110L-2020-2021)
+    In progress. [Link](https://github.com/Fuyukiri/CS110L)
+    
+- [Rice] Parallel Programming in Java
+
+    In progress. [Link](https://github.com/Fuyukiri/Parallel-Programming-in-Java)
 
 - [UC Berkeley] CS 169: Software Engineering
 
-    In progress. [Link](https://github.com/Fuyukiri/UCB_CS169)
+    In plan. [Link](https://github.com/Fuyukiri/UCB_CS169)
 
 
 - [UC Berkeley] CS 162:Operating Systems and Systems Programming
