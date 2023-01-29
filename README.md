@@ -19,7 +19,11 @@
 - [UC Berkeley] CS 61C: Great Ideas in Computer Architecture
 
     Finished. [Link](https://github.com/Fuyukiri/CS61C)
+    
+- [MIT] 6.S081 Operating System Engineering
 
+    In progress. [Link](https://github.com/Fuyukiri/6.S081)
+    
 - [Stanford] CS 110L: Safety in Systems Programming
 
     In progress. [Link](https://github.com/Fuyukiri/CS110L)
@@ -32,7 +36,3 @@
 
     In plan. [Link](https://github.com/Fuyukiri/UCB_CS169)
 
-
-- [UC Berkeley] CS 162:Operating Systems and Systems Programming
-
-    In plan.
